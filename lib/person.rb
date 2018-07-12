@@ -4,5 +4,5 @@ class Person
     @job = job
   end
   
-  def 
+  def name
     
